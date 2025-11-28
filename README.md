@@ -1,0 +1,1 @@
+# prog_7_pract_RabbitMQ
