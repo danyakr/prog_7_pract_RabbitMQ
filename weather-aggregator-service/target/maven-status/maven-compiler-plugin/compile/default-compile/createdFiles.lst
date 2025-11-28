@@ -1,0 +1,7 @@
+com/weather/aggregator/service/WeatherAggregatorService$AggregationContext.class
+com/weather/aggregator/service/WeatherAggregatorService.class
+com/weather/aggregator/dto/WeatherData.class
+com/weather/aggregator/WeatherAggregatorApplication.class
+com/weather/aggregator/config/RabbitMQConfig.class
+com/weather/aggregator/dto/WeatherResponse.class
+com/weather/aggregator/dto/AggregatedWeatherReport.class

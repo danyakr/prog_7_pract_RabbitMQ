@@ -1,0 +1,10 @@
+com/weather/api/controller/WeatherController.class
+com/weather/api/dto/WeatherData.class
+com/weather/api/dto/WeatherMessage.class
+com/weather/api/WeatherApiApplication.class
+com/weather/api/config/RabbitMQConfig.class
+com/weather/api/dto/AggregatedWeatherReport.class
+com/weather/api/websocket/WeatherWebSocketHandler.class
+com/weather/api/service/WeatherService.class
+com/weather/api/config/WebSocketConfig.class
+com/weather/api/dto/WeatherRequestDto.class

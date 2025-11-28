@@ -1,0 +1,10 @@
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-api-service/src/main/java/com/weather/api/WeatherApiApplication.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-api-service/src/main/java/com/weather/api/dto/WeatherRequestDto.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-api-service/src/main/java/com/weather/api/dto/AggregatedWeatherReport.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-api-service/src/main/java/com/weather/api/config/WebSocketConfig.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-api-service/src/main/java/com/weather/api/controller/WeatherController.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-api-service/src/main/java/com/weather/api/config/RabbitMQConfig.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-api-service/src/main/java/com/weather/api/dto/WeatherData.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-api-service/src/main/java/com/weather/api/dto/WeatherMessage.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-api-service/src/main/java/com/weather/api/service/WeatherService.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-api-service/src/main/java/com/weather/api/handler/WeatherWebSocketHandler.java

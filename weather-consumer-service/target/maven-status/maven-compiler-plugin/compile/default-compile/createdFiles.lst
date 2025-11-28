@@ -1,0 +1,12 @@
+com/weather/consumer/config/CacheConfig.class
+com/weather/consumer/dto/OpenWeatherMapResponse$Weather.class
+com/weather/consumer/dto/WeatherResponse.class
+com/weather/consumer/WeatherConsumerApplication.class
+com/weather/consumer/client/WeatherApiClient.class
+com/weather/consumer/service/WeatherConsumerService.class
+com/weather/consumer/service/DeadLetterQueueService.class
+com/weather/consumer/dto/WeatherMessage.class
+com/weather/consumer/dto/OpenWeatherMapResponse$Main.class
+com/weather/consumer/dto/OpenWeatherMapResponse$Wind.class
+com/weather/consumer/dto/OpenWeatherMapResponse.class
+com/weather/consumer/config/RabbitMQConfig.class

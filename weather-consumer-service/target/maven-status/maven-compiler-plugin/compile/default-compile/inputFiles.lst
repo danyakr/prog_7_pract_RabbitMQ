@@ -1,0 +1,9 @@
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-consumer-service/src/main/java/com/weather/consumer/client/WeatherApiClient.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-consumer-service/src/main/java/com/weather/consumer/config/RabbitMQConfig.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-consumer-service/src/main/java/com/weather/consumer/WeatherConsumerApplication.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-consumer-service/src/main/java/com/weather/consumer/dto/WeatherMessage.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-consumer-service/src/main/java/com/weather/consumer/dto/WeatherResponse.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-consumer-service/src/main/java/com/weather/consumer/config/CacheConfig.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-consumer-service/src/main/java/com/weather/consumer/dto/OpenWeatherMapResponse.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-consumer-service/src/main/java/com/weather/consumer/service/WeatherConsumerService.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-consumer-service/src/main/java/com/weather/consumer/service/DeadLetterQueueService.java

@@ -1,0 +1,6 @@
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-aggregator-service/src/main/java/com/weather/aggregator/dto/WeatherResponse.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-aggregator-service/src/main/java/com/weather/aggregator/config/RabbitMQConfig.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-aggregator-service/src/main/java/com/weather/aggregator/service/WeatherAggregatorService.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-aggregator-service/src/main/java/com/weather/aggregator/dto/AggregatedWeatherReport.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-aggregator-service/src/main/java/com/weather/aggregator/dto/WeatherData.java
+/mnt/c/Users/diamo/PycharmProjects/Rabbit/weather-aggregator-service/src/main/java/com/weather/aggregator/WeatherAggregatorApplication.java
